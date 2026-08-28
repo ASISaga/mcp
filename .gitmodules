@@ -12,6 +12,6 @@
 	path = servers/reddit.asisaga.com
 	url = https://github.com/ASISaga/reddit.asisaga.com
 
-[submodule "subconscious.asisaga.com"]
-	path = servers/subconscious.asisaga.com
-	url = https://github.com/ASISaga/subconscious.asisaga.com
+[submodule "mind.asisaga.com"]
+	path = servers/mind.asisaga.com
+	url = https://github.com/ASISaga/mind.asisaga.com
